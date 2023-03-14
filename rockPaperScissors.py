@@ -23,8 +23,8 @@ elif playerMove == 'p':
 elif playerMove == 's':
     print('SCISSORS versus...')
 
-# Display what the computer chose:
-randomNumber = random.randint(1, 3)
+# Display what the computer chose
+# randomNumber = random.randint(1, 3)
 if randomNumber == 1:
     computerMove = 'r'
     print('ROCK')
