@@ -19,5 +19,5 @@ while True:
         print('Your guess is too low.')
         counter = counter + 1
     elif guess > answer:
-        print('Youre guess is too high')
+        print('Your guess is too high')
         counter = counter + 1
