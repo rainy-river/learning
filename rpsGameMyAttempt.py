@@ -46,6 +46,5 @@ while True:
     else:
         print('You lose!')
         losses = losses + 1
-    
 
 
